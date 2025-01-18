@@ -1,6 +1,6 @@
 import React from 'react'
 import pic from '../assets/starr-removebg.png'
-import { FaGlobe } from "react-icons/fa"; // Import globe icon
+import { FaGlobe } from "react-icons/fa"; 
 
 const Navsection = () => {
   return (

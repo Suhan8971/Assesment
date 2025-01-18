@@ -1,10 +1,10 @@
-/* General Styles */
+/* general */
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Desktop Navigation Bar */
+/* navigation bar */
 .nav-bar {
   display: flex;
   justify-content: space-between;
@@ -39,7 +39,7 @@ body {
   cursor: pointer;
 }
 
-/* Mobile Navbar */
+/* mobile navbar */
 .mobile-nav {
   display: none;
 }
@@ -50,7 +50,7 @@ body {
   cursor: pointer;
 }
 
-/* Middle Section */
+/* middle section */
 .features {
   display: flex;
   justify-content: center;
@@ -78,7 +78,7 @@ body {
   font-weight: lighter;
 }
 
-/* Bottom Section */
+/* bottom section */
 .try-div {
   text-align: center;
   font-size: 48px;
